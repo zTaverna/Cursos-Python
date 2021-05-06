@@ -1,0 +1,5 @@
+a=int(4)
+b=int(10)
+c=int(50)
+d=int(1)
+f=int(5)
